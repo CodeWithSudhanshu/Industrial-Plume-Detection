@@ -132,18 +132,6 @@ This repository contains only the implementation, methodology, and supporting co
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-Industrial-Plume-Detection/
-│
-├── PCI_Plume_Project.ipynb
-├── README.md
-├── requirements.txt
-└── scripts/
-```
-
----
 
 ## 🎯 Learning Outcomes
 
